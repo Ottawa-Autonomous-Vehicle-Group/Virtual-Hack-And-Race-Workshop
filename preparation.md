@@ -4,7 +4,7 @@ PaulH will be hosting a workshop to help beginners prepare for the April 25th Gl
 
 **Who**: Anyone interested in racing their own virtual autonomous car! We do not assume prior knowledge of Donkey Car, or other platforms.
 
-**Date**: Sunday April 12 2-5pm EST
+**Date**: Sunday April 12 3-5pm EST
 
 **Location**: [Ottawa Autonomous Vehicle Group Discord](https://discord.gg/3G7beD3)
 
