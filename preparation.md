@@ -28,10 +28,9 @@ You will need Python 3 and Git.  An easy way to install these packages is to use
 ### sdsandbox (Self Driving Sandbox) Donkey Car Simulator
 [Github for sdsandbox](https://github.com/tawnkramer/sdsandbox).  This is the Unity source for the self driving sandbox simulator.  You will also need to install Unity to build this from source: [Download Unity](https://unity3d.com/get-unity/download).
 
-Instead of building from source, executables may also be available.
-1. [Linux donkey car simulator](https://drive.google.com/file/d/10lpqOZ-dX9K9mJX4ggmrUM4FSnc-ZJLn/view?usp=sharing)
-2. [Windows donkey car simulator] - TBD
-3. [Mac donkey car simulator] - TBD
+Instead of building from source, executables are also available at: https://github.com/tawnkramer/gym-donkeycar/releases/tag/v2020.4
+
+**New**: Tawn has added a virtual racing page to the Donkey Docs: https://docs.donkeycar.com/guide/virtual_race_league/
 
 
 ## Background info on Donkey Car
@@ -40,4 +39,4 @@ Instead of building from source, executables may also be available.
  
  - [ ] Read up and try to follow Tawn Kramer's  [gist](https://gist.github.com/tawnkramer/6d244090cb8f2af1bc9f6d1ebc0377b1)
 
-**Check this page a fews days before April 12th for updates!** 
+**Check this page a fews days before April 12th for updates!**
