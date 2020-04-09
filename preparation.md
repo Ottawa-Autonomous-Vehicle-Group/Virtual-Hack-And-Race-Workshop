@@ -10,6 +10,11 @@ PaulH will be hosting a workshop to help beginners prepare for the April 25th Gl
 
 # What to do in Advance
 
+## ***NEW***
+Tawn has created a new video tutorial on setting up the Donkey car simulator on Windows.  (The steps are very similar for Mac and Linux.)  He has also added a virtual racing page to the Donkey Docs.  These are very highly recommended if you want to get started on the Donkey car simulator.
+https://www.youtube.com/watch?v=wqQMmHVT8qw
+https://docs.donkeycar.com/guide/virtual_race_league.
+
 ## Install SW on PC (Windows, Mac, Linux)
 
 We will be using 3 packages that are needed for the autonomous car workflow using a simulator:
@@ -29,9 +34,6 @@ You will need Python 3 and Git.  An easy way to install these packages is to use
 [Github for sdsandbox](https://github.com/tawnkramer/sdsandbox).  This is the Unity source for the self driving sandbox simulator.  You will also need to install Unity to build this from source: [Download Unity](https://unity3d.com/get-unity/download).
 
 Instead of building from source, executables are also available at: https://github.com/tawnkramer/gym-donkeycar/releases/tag/v2020.4
-
-**New**: Tawn has added a virtual racing page to the Donkey Docs: https://docs.donkeycar.com/guide/virtual_race_league/
-
 
 ## Background info on Donkey Car
  - [ ] Learn about the [DIY Robocars community](https://diyrobocars.com/) !
