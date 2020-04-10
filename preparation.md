@@ -15,6 +15,9 @@ Tawn has created a new video tutorial on setting up the Donkey car simulator on 
 * https://www.youtube.com/watch?v=wqQMmHVT8qw
 * https://docs.donkeycar.com/guide/virtual_race_league.
 
+Donkey car overview presentation by Ed Murphy (one of the maintainers for the Donkey car repository)
+* https://docs.google.com/presentation/d/1oOF9qHh6qPwF-ocOwGRzmLIRXcIcguDFwa7x9EicCo8/edit#slide=id.p
+
 ## Install SW on PC (Windows, Mac, Linux)
 
 We will be using 3 packages that are needed for the autonomous car workflow using a simulator:
