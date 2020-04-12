@@ -6,7 +6,7 @@ PaulH will be hosting a workshop to help beginners prepare for the April 25th Gl
 
 **Date**: Sunday April 12 3-5pm EST
 
-**Location**: [Ottawa Autonomous Vehicle Group Discord](https://discord.gg/3G7beD3)
+**Location**: [Zoom meeting](https://docusign.zoom.us/j/562745801?pwd=N3JNRU9xNThaN1BHWTNITUxMUGZtQT09)
 
 # What to do in Advance
 
