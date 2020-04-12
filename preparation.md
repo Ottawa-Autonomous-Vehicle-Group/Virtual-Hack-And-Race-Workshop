@@ -32,6 +32,7 @@ You will need Python 3 and Git.  An easy way to install these packages is to use
 
 ### Gym Donkey Car
 [Github for gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar)
+[Guide for installing simulator(http://docs.donkeycar.com/guide/simulator/)
 
 ### sdsandbox (Self Driving Sandbox) Donkey Car Simulator
 [Github for sdsandbox](https://github.com/tawnkramer/sdsandbox).  This is the Unity source for the self driving sandbox simulator.  You will also need to install Unity to build this from source: [Download Unity](https://unity3d.com/get-unity/download).
