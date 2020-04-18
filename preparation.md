@@ -1,12 +1,12 @@
-# Virtual Hack and Race Workshop
+# Virtual Hack and Race Workshop #2
 
 PaulH will be hosting a workshop to help beginners prepare for the April 25th Global DIY Robocars Hack and Race! 
 
 **Who**: Anyone interested in racing their own virtual autonomous car! We do not assume prior knowledge of Donkey Car, or other platforms.
 
-**Date**: Sunday April 12 3-5pm EST
+**Date**: Sunday April 19th, 2-4pm EST
 
-**Location**: [Zoom meeting](https://docusign.zoom.us/j/562745801?pwd=N3JNRU9xNThaN1BHWTNITUxMUGZtQT09)
+**Location**: [Zoom meeting](https://docusign.zoom.us/j/95121570963?pwd=MjgvTjRoNWQwTURPcHN0UE8wbWJ2UT09)
 
 # What to do in Advance
 
