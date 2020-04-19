@@ -8,6 +8,8 @@ PaulH will be hosting a workshop to help beginners prepare for the April 25th Gl
 
 **Location**: [Zoom meeting](https://docusign.zoom.us/j/95121570963?pwd=MjgvTjRoNWQwTURPcHN0UE8wbWJ2UT09)
 
+Link to workshop presentation: https://drive.google.com/file/d/1wz-a-p-2WyOkPq39BQKNxhETbyj9uZc-/view?usp=sharing
+
 # What to do in Advance
 
 ## \*\*\*NEW\*\*\*
