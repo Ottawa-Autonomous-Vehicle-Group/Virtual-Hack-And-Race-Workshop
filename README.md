@@ -5,6 +5,8 @@ Info for getting started with the Self-driving simulator.
 
 Link to workshop presentation: https://drive.google.com/file/d/1wz-a-p-2WyOkPq39BQKNxhETbyj9uZc-/view?usp=sharing
 
+Link to workshop recording: https://www.youtube.com/watch?v=2z4aaTNnAvU&t=165s
+
 Tawn has created a new video tutorial on setting up the Donkey car simulator on Windows.  (The steps are very similar for Mac and Linux.)  He has also added a virtual racing page to the Donkey Docs.  These are very highly recommended if you want to get started on the Donkey car simulator.
 * https://www.youtube.com/watch?v=wqQMmHVT8qw
 * https://docs.donkeycar.com/guide/virtual_race_league.
